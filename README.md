@@ -1,2 +1,1 @@
-# Technologies-for-Information-Content-Security-of-Internet
-The Homework of Technologies for Information Content Security of Internet
+信息内容安全作业
