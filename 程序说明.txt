@@ -1,0 +1,5 @@
+one.py 字符型->整数型
+two.py 标准化
+three,py 归一化
+test1.py knn
+test2.py cnn
